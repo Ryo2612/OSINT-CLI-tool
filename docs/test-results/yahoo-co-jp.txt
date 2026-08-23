@@ -1,0 +1,30 @@
+Target: yahoo.co.jp
+IP Address: 182.22.16.251
+
+IP Information
+-------------------------
+IP: 182.22.16.251
+ASN: AS23816
+Organisation: LY Corporation
+Country: Japan
+
+MX Records:
+10 mx1.mail.yahoo.co.jp.
+10 mx2.mail.yahoo.co.jp.
+10 mx3.mail.yahoo.co.jp.
+10 mx5.mail.yahoo.co.jp.
+
+NS Records:
+ns12.yahoo.co.jp.
+ns01.yahoo.co.jp.
+ns02.yahoo.co.jp.
+ns11.yahoo.co.jp.
+
+TXT Records:
+"v=spf1 include:spf.yahoo.co.jp ~all"
+"google-site-verification=GvbYgNin-mY73VbS4IJK2D8nI3tHEf2NpRdy76VYqBU"
+
+AAAA Records:
+
+HTTP status:
+403

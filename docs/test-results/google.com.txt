@@ -1,0 +1,45 @@
+Target: google.com
+IP Address: 142.250.140.138
+
+IP Information
+-------------------------
+IP: 142.250.140.138
+ASN: AS15169
+Organisation: Google LLC
+Country: United Kingdom
+
+MX Records:
+10 smtp.google.com.
+
+NS Records:
+ns4.google.com.
+ns1.google.com.
+ns2.google.com.
+ns3.google.com.
+
+TXT Records:
+"facebook-domain-verification=22rm551cu4k0ab0bxsw536tlds4h95"
+"onetrust-domain-verification=6d685f1d41a94696ad7ef771f68993e0"
+"google-site-verification=4ibFUgB-wXLQ_S7vsXVomSTVamuOXBiVAzpR5IZ87D0"
+"docusign=1b0a6754-49b1-4db5-8540-d2c12664b289"
+"MS=E4A68B9AB2BB9670BCE15412F62916164C0B20BB"
+"globalsign-smime-dv=CDYX+XFHUw2wml6/Gb8+59BsH31KzUr6c1l2BPvqKX8="
+"apple-domain-verification=30afIBcvSuDV2PLX"
+"google-site-verification=wD8N7i1JTNTkezJ49swvWW48f8_9xveREV4oB-0Hf5o"
+"work-accounts-domain-verification=Tcj6JjIMZOw2KsSEw2Nt2rLae89tN6"
+"onetrust-domain-verification=0d477fe608074e6f9c12bca7826035cc"
+"cisco-ci-domain-verification=47c38bc8c4b74b7233e9053220c1bbe76bcc1cd33c7acf7acd36cd6a5332004b"
+"v=spf1 include:_spf.google.com ~all"
+"_r4rd1pvwyrpi7sw4a3hzmw8e51yh9td"
+"Z29vZ2xl"
+"docusign=05958488-4752-4ef2-95eb-aa7ba8a3bd0e"
+"google-site-verification=TV9-DBe4R80X4v0M4U_bd_J9cpOJM0nikft0jAgjmsQ"
+
+AAAA Records:
+2a00:1450:4009:c04::8a
+2a00:1450:4009:c04::64
+2a00:1450:4009:c04::8b
+2a00:1450:4009:c04::65
+
+HTTP status:
+200
